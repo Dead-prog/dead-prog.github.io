@@ -1,0 +1,67 @@
+/* gastronomie et monument */
+body {
+font-family: Comic Sans MS, Comic Sans, cursive;
+padding-left: 13em;
+
+color: black;
+background-color: lightblue
+}
+div.image1{
+	position: absolute;
+    top: 230px;
+    left: 200px;
+ }
+ 
+ div.T1{
+	 color: red;
+	 position: absolute;
+	 top:400px;
+	 left:200px;
+ }
+ 
+ div.Titre1{
+	 color: blue;
+	 position: absolute;
+	 top: 170px;
+	 left: 250px;
+	
+ }
+ 
+ div.I2{
+	position: absolute;
+    top: 250px;
+    left: 550px;
+ }
+ 
+ div.T2{
+	 position: absolute;
+	 top:400px;
+	 left:400px;
+ }
+ 
+ div.Titre2{
+	 color: blue;
+	 position: absolute;
+	 top: 170px;
+	 left: 560px;
+	
+ }
+ 
+ div.Texte2{
+	 color: red;
+	 position: absolute;
+	 top: 420px;
+	 left: 550px;	 
+ }
+ 
+ div.i3{
+	 position: absolute;
+	 left: 940px;
+	 top: 10px;
+ }
+ 
+ div.im{
+	 position: absolute;
+	 top: 300px;
+	 left: 940px;
+ }
